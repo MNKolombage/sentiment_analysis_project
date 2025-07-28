@@ -8,7 +8,7 @@ This project is a simple but practical implementation of **Sentiment Analysis** 
 
 Although the live Azure deployment has been deactivated due to cost, you can still view the working demo here:
 
-📽️ [Watch Demo Video](#) <!-- Replace with your Drive or YouTube link -->
+📽️ [Watch Demo Video](https://youtu.be/F6Ei2n-Ry1E) 
 
 ---
 
